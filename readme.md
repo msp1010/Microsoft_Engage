@@ -3,7 +3,7 @@
 This app helps in marking attendance using face recognition.
 
 ## Contents of the Application
-**Backend**: In the backend python code is written for face detection, face recognition and marking attendance. Google sheets is used as the database for storing information regarding the attendance.
+**Backend**: In the backend python code is written for face detection, face recognition and marking attendance. Spread sheets is used as the database for storing information regarding the attendance.
 **Frontend**: In the frontend the code is written in flutter using dart as the programming language. Firebase is used as the database to store information regarding the mail-id, passwords and cloud storage is used for uploading photos.
 
 
