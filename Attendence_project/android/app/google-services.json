@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348236815620",
+    "project_id": "flash-chat-flutter-5f644",
+    "storage_bucket": "flash-chat-flutter-5f644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348236815620:android:987d377022407ee5dc0451",
+        "android_client_info": {
+          "package_name": "co.pujitha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348236815620-7h8r7tub0g5ovoiqs95s71jol61qvfv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZQ-eXZ2mlq5_lw0wveDb6gB-nDWcn10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348236815620-7h8r7tub0g5ovoiqs95s71jol61qvfv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
