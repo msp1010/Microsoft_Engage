@@ -14,3 +14,5 @@ I have used pycharm editor to install following dependencies:
  - face_recognition
  - numpy
  - opencv-python
+
+### the rar file of the frontend has been included because the size of the frontend file is large.So please go through it.
